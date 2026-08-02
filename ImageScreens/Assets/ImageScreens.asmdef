@@ -1,0 +1,26 @@
+{
+    "name": "ImageScreens",
+    "rootNamespace": "ImageScreens",
+    "references": [
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Assembly-CSharp.dll",
+        "Assembly-CSharp-firstpass.dll",
+        "BepInEx.dll",
+        "0Harmony.dll",
+        "Brutal.RakNet.dll",
+        "LaunchPadBooster.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
