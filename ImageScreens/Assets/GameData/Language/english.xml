@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Language xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Name>English</Name>
+	<Code>EN</Code>
+	<Font>font_english</Font>
+
+	<Things>
+		<RecordThing>
+			<Key>ImageScreenLandscape</Key>
+			<Value>Image Screen - Wide</Value>
+			<Description>The screen can show an image downloaded from a web server.</Description>
+		</RecordThing>
+		<RecordThing>
+			<Key>ImageScreenPortrait</Key>
+			<Value>Image Screen - Tall</Value>
+			<Description>The screen can show an image downloaded from a web server.</Description>
+		</RecordThing>
+	</Things>
+
+	<Interface>
+		<Record>
+			<Key>ImageScreenError</Key>
+			<Value>&lt;color=red&gt;Error: {0}&lt;/color&gt;</Value>
+		</Record>
+		<Record>
+			<Key>ImageScreenFailedToDownload</Key>
+			<Value>Failed to download {0}.</Value>
+		</Record>
+	</Interface>
+</Language>

@@ -1,0 +1,16 @@
+﻿<ModMetadata xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>ImageScreens</Name>
+  <Author>Michal Řeháček</Author>
+  <ModID>michal.imagescreens</ModID>
+  <Version>1.0</Version>
+  <ChangeLog>
+    First version
+  </ChangeLog>
+  <Description>
+    Image screens
+  </Description>
+  <Tags>
+    <Tag>StationeersLaunchPad</Tag>
+    <Tag>Decoration</Tag>
+  </Tags>
+</ModMetadata>
