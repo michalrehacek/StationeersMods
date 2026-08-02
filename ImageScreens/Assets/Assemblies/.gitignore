@@ -1,0 +1,3 @@
+# Do not add DLLs into the repository.
+# They need to be copied locally using LinkDLLs.sh.
+*.dll
