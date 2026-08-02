@@ -1,0 +1,75 @@
+# Defaults
+*			text=auto
+
+# Git control files
+.gitattributes		text
+.gitignore		text
+
+# Text files
+LICENSE			text
+*.md			text
+*.h			text
+*.cpp			text
+*.cs			text
+*.xml			text
+*.json			text
+
+# Compiled files
+*.dll			binary
+
+# Image files
+*.blend			binary
+*.fbx			binary
+*.jpg			binary
+*.png			binary
+*.xcf			binary
+
+# Unity source files
+*.cginc			text
+*.compute		text
+*.cs			text
+*.raytrace		text
+*.shader		text
+*.hlsl			text
+
+# Unity JSON files
+*.asmdef		text eol=lf
+*.asmref		text eol=lf
+*.index			text eol=lf
+*.inputactions		text eol=lf
+*.shadergraph		text eol=lf
+*.shadersubgraph	text eol=lf
+
+# Unity UI Toolkit files
+*.tss			text
+*.uss			text
+*.uxml			text
+
+# Unity YAML files
+*.anim			text eol=lf
+*.asset			text eol=lf
+*.brush			text eol=lf
+*.controller		text eol=lf
+*.flare			text eol=lf
+*.fontsettings		text eol=lf
+*.giparams		text eol=lf
+*.guiskin		text eol=lf
+*.lighting		text eol=lf
+*.mask			text eol=lf
+*.mat			text eol=lf
+*.meta			text eol=lf
+*.mixer			text eol=lf
+*.overrideController	text eol=lf
+*.physicMaterial	text eol=lf
+*.physicsMaterial2D	text eol=lf
+*.playable		text eol=lf
+*.prefab		text eol=lf
+*.preset		text eol=lf
+*.renderTexture		text eol=lf
+*.scenetemplate		text eol=lf
+*.shadervariants	text eol=lf
+*.signal		text eol=lf
+*.spriteatlas		text eol=lf
+*.spriteatlasv2		text eol=lf
+*.terrainlayer		text eol=lf
+*.unity			text eol=lf
